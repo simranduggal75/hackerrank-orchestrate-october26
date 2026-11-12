@@ -632,3 +632,28 @@ branch=main
 repo_root=C:\Users\Dell\Documents\hackerrank-orchestrate-october26
 worktree=main
 parent_agent=none
+
+## [2026-11-12T20:39:36+05:30] Add event photos and the in-person attendance to the README
+
+User Prompt (verbatim, secrets redacted):
+[Message 1, sent while the previous turn was finishing:]
+should i send pic?
+[Message 2:]
+heres the all pics drive link
+also i traveled to bengaluru coz i got invited offline to attend hackathon in bengalauru office 
+[Google Drive folder link redacted: it opens the user's full photo folder, which includes other people]
+
+Agent Response Summary:
+Opened the shared Drive folder read-only in the built-in browser (26 photos, no sign-in needed) and reviewed small previews of all of them. Chose three photos without other identifiable people for the public repository: the certificate of achievement (it shows final rank 832 of 4,094, matching the README), the Orchestrate October Edition display in the HackerRank Bengaluru office, and an event photographer's shot cropped to show only the author. Left out crowd and group photos because they show other participants, and desk photos because a welcome card with a QR code is visible. Resized the three images (71-95 KB each) and re-saved them without any metadata, then added an "In person at HackerRank Bengaluru" section to README.md stating that the author was invited and travelled to the Bengaluru office. Committed and pushed.
+
+Actions:
+* Built-in browser: opened the Drive folder and listed its files; downloaded preview images to the session scratchpad (not the repository).
+* Created docs/images/certificate.jpg, docs/images/hackerrank-bengaluru-lobby.jpg, docs/images/working-at-the-hackathon.jpg; edited README.md; appended this entry to log.txt; committed and pushed to origin main.
+
+Context:
+tool=Claude Code (Claude desktop app, Code tab)
+model=claude-opus-5-5
+branch=main
+repo_root=C:\Users\Dell\Documents\hackerrank-orchestrate-october26
+worktree=main
+parent_agent=none

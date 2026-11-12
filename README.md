@@ -7,6 +7,18 @@ has to decide whether deletion was actually requested, work out what every syste
 
 **Result: ranked 832 of 4,094 participants (top 21%).**
 
+## In person at HackerRank Bengaluru
+
+I was invited to take part in the hackathon in person and travelled to HackerRank's office in Bengaluru for it.
+
+<p align="center">
+  <img src="docs/images/certificate.jpg" alt="HackerRank Orchestrate certificate: final rank 832 of 4,094" width="46%">
+  <img src="docs/images/hackerrank-bengaluru-lobby.jpg" alt="Orchestrate October Edition display in the HackerRank Bengaluru office" width="24%">
+  <img src="docs/images/working-at-the-hackathon.jpg" alt="Working on the solution during the hackathon" width="24%">
+</p>
+
+<p align="center"><sub>Certificate of achievement · the Orchestrate display in the Bengaluru office · at work during the event (photo: HackerRank)</sub></p>
+
 The original challenge brief is in [`problem_statement.md`](./problem_statement.md) and HackerRank's starter README is kept as
 [`HACKERRANK_README.md`](./HACKERRANK_README.md). The dataset in `dataset/` is HackerRank's and is entirely fictional.
 
@@ -61,6 +73,7 @@ tested and rejected, custom test cases and known limitations are in
 | [`output.csv`](./output.csv) | The submitted answers for the 518 requests. |
 | [`log.txt`](./log.txt) | The development log the challenge required: every prompt and what was done in response. |
 | [`dataset/`](./dataset) | HackerRank's challenge data (fictional), needed to run the code. |
+| [`docs/images/`](./docs/images) | Photos from the event, resized and with location metadata removed. |
 
 Line references such as `README.md:59` inside the evaluation report and code comments point to HackerRank's README, which is
 now [`HACKERRANK_README.md`](./HACKERRANK_README.md).
