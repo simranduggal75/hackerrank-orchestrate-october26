@@ -1,0 +1,6 @@
+# Keep the submitted files byte-exact on every platform (no line-ending conversion).
+output.csv -text
+log.txt -text
+
+# Source and reports always use LF, so the output and archive stay reproducible.
+code/** text eol=lf

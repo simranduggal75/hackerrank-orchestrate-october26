@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local environment and secrets
+.env
+.env.*
+
+# Build output and private session traces (not part of the repository)
+code.zip
+agent-trace.zip
+agent-trace/
+Agent trace/
+
+# Optional OCR cache
+.ocr_cache/
+ocr_cache/
