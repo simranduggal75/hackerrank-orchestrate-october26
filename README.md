@@ -5,6 +5,8 @@ data may still sit in replicas, logs, search indexes, exports, support attachmen
 has to decide whether deletion was actually requested, work out what every system held at the audit time, and return
 `COMPLETE`, `INCOMPLETE` or `NOT_APPLICABLE` with the ordered findings, remediation and verification steps.
 
+**Result: ranked 832 of 4,094 participants (top 21%).**
+
 The original challenge brief is in [`problem_statement.md`](./problem_statement.md) and HackerRank's starter README is kept as
 [`HACKERRANK_README.md`](./HACKERRANK_README.md). The dataset in `dataset/` is HackerRank's and is entirely fictional.
 
