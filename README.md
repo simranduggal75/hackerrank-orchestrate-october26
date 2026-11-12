@@ -20,7 +20,7 @@ I was invited to take part in the hackathon in person and travelled to HackerRan
 <p align="center"><sub>Certificate of achievement · the Orchestrate display in the Bengaluru office · at work during the event (photo: HackerRank)</sub></p>
 
 <p align="center">
-  <img src="docs/images/networking-at-the-hackathon.jpg" alt="Talking with other participants during the hackathon" width="70%">
+  <img src="docs/images/networking-at-the-hackathon.jpg" alt="Talking with other participants during the hackathon" width="46%">
 </p>
 
 <p align="center"><sub>Meeting other builders during the event (photo: HackerRank)</sub></p>
