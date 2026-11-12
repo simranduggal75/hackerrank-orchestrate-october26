@@ -19,6 +19,12 @@ I was invited to take part in the hackathon in person and travelled to HackerRan
 
 <p align="center"><sub>Certificate of achievement · the Orchestrate display in the Bengaluru office · at work during the event (photo: HackerRank)</sub></p>
 
+<p align="center">
+  <img src="docs/images/networking-at-the-hackathon.jpg" alt="Talking with other participants during the hackathon" width="70%">
+</p>
+
+<p align="center"><sub>Meeting other builders during the event (photo: HackerRank)</sub></p>
+
 The original challenge brief is in [`problem_statement.md`](./problem_statement.md) and HackerRank's starter README is kept as
 [`HACKERRANK_README.md`](./HACKERRANK_README.md). The dataset in `dataset/` is HackerRank's and is entirely fictional.
 
